@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3f3d215aad974d548a5fd15b6442f78c
+  - enabled: 1
+    path: Assets/Scenes/dialog.unity
+    guid: e47fca41af75a9445a4ba1ef8768d23c
+  - enabled: 1
+    path: Assets/Scenes/puzzleGame.unity
+    guid: 339c3b1f9bb88034cb9ac98f6ed0be6c
+  - enabled: 1
+    path: Assets/Scenes/Bozkurt_1.unity
+    guid: ce1a1f56591a15444b783729111b270d
+  - enabled: 1
+    path: Assets/Scenes/Bozkurt_2.unity
+    guid: a4854d31e39fa2e4fba68ece2c671bfd
+  - enabled: 1
+    path: Assets/Scenes/Bozkurt_3.unity
+    guid: c9216b85fb16d834faa2f3fc0ffc4f78
+  - enabled: 1
+    path: Assets/Scenes/Bozkurt_4.unity
+    guid: d1301a9d04a84ce4181a2e9290638871
+  m_configObjects: {}
